@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "nombre": "Eva, una segunda oportunidad para sanar",
+    "raza": "Mestiza",
+    "fecha": "2026-02-10",
+    "destacada": true,
+    "imagen": "img/eva.jpg",
+    "resumen": "Eva, una Chow Chow rescatada del abandono, encontró una nueva vida tras meses de cuidado y entrenamiento. Hoy acompaña a pacientes en tratamiento, brindando calma, cariño y compañía en los momentos más difíciles.",
+    "contenido": [
+      "Eva, una Chow Chow rescatada del abandono, encontró una nueva vida tras meses de cuidado y entrenamiento. Hoy acompaña a pacientes en tratamiento, brindando calma, cariño y compañía en los momentos más difíciles.",
+      "Eva fue encontrada deambulando en una zona industrial, desnutrida y con signos de maltrato. Voluntarios de la fundación la rescataron y comenzaron un largo proceso de recuperación física antes de iniciar su entrenamiento en terapia asistida.",
+      "Gracias a su temperamento tranquilo, Eva fue seleccionada para acompañar a pacientes oncológicos durante sus sesiones de quimioterapia, ayudando a reducir el estrés y la ansiedad asociados al tratamiento.",
+      "Actualmente Eva visita el pabellón oncológico dos veces por semana, y su presencia se ha convertido en uno de los momentos más esperados por los pacientes y sus familias."
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Oreo, del abandono a llevar esperanza",
+    "raza": "Pastor Alemán",
+    "fecha": "2026-02-18",
+    "destacada": true,
+    "imagen": "img/oreo.jpg",
+    "resumen": "Oreo, un pastor alemán que sufrió maltrato, fue rehabilitado por una fundación y seleccionado para terapia asistida. Ahora visita hospitales y ayuda a niños y adultos a enfrentar sus tratamientos con mayor tranquilidad.",
+    "contenido": [
+      "Oreo, un pastor alemán que sufrió maltrato, fue rehabilitado por una fundación y seleccionado para terapia asistida. Ahora visita hospitales y ayuda a niños y adultos a enfrentar sus tratamientos con mayor tranquilidad.",
+      "Oreo llegó a la fundación tras ser rescatado de una situación de maltrato severo. Su recuperación tomó varios meses, durante los cuales un equipo de especialistas trabajó en reconstruir su confianza hacia las personas.",
+      "Una vez recuperado, Oreo mostró una disposición natural para el trabajo de terapia asistida, superando las evaluaciones de temperamento necesarias para interactuar con pacientes hospitalizados.",
+      "Hoy Oreo visita distintos hospitales de la ciudad, ayudando a niños y adultos a enfrentar con mayor tranquilidad procesos médicos complejos, como quimioterapias y hospitalizaciones prolongadas."
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Kloey, la compañía que cambia vidas",
+    "raza": "Cocker Spaniel",
+    "fecha": "2026-03-02",
+    "destacada": true,
+    "imagen": "img/kloey.jpg",
+    "resumen": "Kloey, una Cocker rescatada en condiciones difíciles, recibió la oportunidad de comenzar de nuevo. Después de su entrenamiento, se convirtió en una fiel compañera para pacientes que necesitan apoyo emocional durante su recuperación.",
+    "contenido": [
+      "Kloey, una Cocker rescatada en condiciones difíciles, recibió la oportunidad de comenzar de nuevo. Después de su entrenamiento, se convirtió en una fiel compañera para pacientes que necesitan apoyo emocional durante su recuperación.",
+      "Kloey fue rescatada en condiciones de abandono extremo, sin acceso a alimento ni atención veterinaria. Su llegada a la fundación marcó el inicio de un proceso integral de rehabilitación física y emocional.",
+      "Tras completar su entrenamiento en zooterapia, Kloey demostró una empatía especial hacia personas en situaciones vulnerables, lo que la convirtió en una candidata ideal para el programa de acompañamiento oncológico.",
+      "En la actualidad, Kloey acompaña semanalmente a pacientes en recuperación, brindando apoyo emocional que complementa sus tratamientos médicos."
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Niko, un Golden Retriever que aprendió a acompañar",
+    "raza": "Golden Retriever",
+    "fecha": "2026-03-15",
+    "destacada": false,
+    "imagen": "img/niko.jpg",
+    "resumen": "Niko fue rescatado después de pasar meses en abandono. Tras su recuperación y entrenamiento, comenzó a visitar hospitales, donde hoy brinda tranquilidad y compañía a pacientes durante tratamientos largos y difíciles.",
+    "contenido": [
+      "Niko fue rescatado después de pasar meses en abandono, deambulando por las calles sin dueño ni cuidados. Su llegada a la fundación marcó el inicio de un proceso de recuperación física y emocional que tomaría varios meses.",
+      "Tras su entrenamiento en terapia asistida, Niko comenzó a visitar hospitales oncológicos, donde hoy brinda tranquilidad y compañía a pacientes durante tratamientos largos y difíciles. Su presencia calmada ha demostrado reducir los niveles de ansiedad en quienes atraviesan quimioterapia.",
+      "Hoy, Niko forma parte de un equipo de más de 15 perros de terapia que visitan semanalmente distintos centros médicos, demostrando el poder del vínculo animal-humano en procesos de sanación."
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Toby, un Beagle que volvió a confiar",
+    "raza": "Beagle",
+    "fecha": "2026-03-22",
+    "destacada": false,
+    "imagen": "img/toby.jpg",
+    "resumen": "Toby llegó a la fundación con miedo a las personas luego de sufrir maltrato. Con paciencia recuperó la confianza y ahora acompaña a niños hospitalizados, ayudándolos a sentirse más seguros y menos solos.",
+    "contenido": [
+      "Toby llegó a la fundación con miedo a las personas luego de sufrir maltrato. Con paciencia recuperó la confianza y ahora acompaña a niños hospitalizados, ayudándolos a sentirse más seguros y menos solos.",
+      "Toby llegó a la fundación con signos evidentes de maltrato y un fuerte temor hacia las personas. El equipo de rehabilitación trabajó pacientemente durante meses para ayudarlo a recuperar la confianza.",
+      "Con el tiempo, Toby desarrolló un vínculo especial con los voluntarios, lo que permitió iniciar su entrenamiento en terapia asistida enfocada en el acompañamiento a niños hospitalizados.",
+      "Hoy Toby visita salas de pediatría oncológica, donde su energía y cariño ayudan a los niños a sentirse más seguros y acompañados durante procesos médicos difíciles."
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Zoe, una Labrador que transforma cada visita",
+    "raza": "Labrador",
+    "fecha": "2026-04-05",
+    "destacada": false,
+    "imagen": "img/zoe.jpg",
+    "resumen": "Zoe fue encontrada herida y sin hogar, pero recibió una segunda oportunidad. Después de ser rehabilitada, fue entrenada para acompañamiento emocional y hoy visita adultos mayores y pacientes en recuperación.",
+    "contenido": [
+      "Zoe fue encontrada herida y sin hogar, pero recibió una segunda oportunidad. Después de ser rehabilitada, fue entrenada para acompañamiento emocional y hoy visita adultos mayores y pacientes en recuperación.",
+      "Zoe fue encontrada herida en la vía pública, sin hogar ni cuidados. Tras ser atendida de urgencia, inició un proceso de recuperación que incluyó rehabilitación física antes de comenzar su entrenamiento en terapia asistida.",
+      "Su carácter calmado y paciente la hizo ideal para trabajar con adultos mayores y pacientes en procesos de recuperación prolongados, quienes se benefician especialmente de su compañía constante.",
+      "Actualmente Zoe forma parte del equipo de terapia que visita centros de cuidado y salas de recuperación, llevando bienestar emocional a quienes más lo necesitan."
+    ]
+  }
+]

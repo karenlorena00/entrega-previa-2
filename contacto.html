@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Patitas que Sanan - Contacto</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700&family=Nunito+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <nav class="navbar">
+      <a class="brand" href="index.html">Patitas que Sanan</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="noticias.html">Noticias</a></li>
+        <li><a href="favoritos.html">Favoritos</a></li>
+        <li><a href="sobre-nosotros.html">Sobre nosotros</a></li>
+        <li><a href="contacto.html" class="active" aria-current="page">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="section">
+    <h1>Contacto</h1>
+    <p class="page-intro">¿Tienes preguntas o quieres ser parte del programa? Escríbenos.</p>
+
+    <div id="alerta-confirmacion" class="alert alert-success">
+      ¡Gracias por tu mensaje! Te responderemos muy pronto.
+    </div>
+
+    <form id="form-contacto" class="form" novalidate>
+      <div class="form-group">
+        <label for="nombre">Nombre</label>
+        <input type="text" id="nombre" name="nombre" class="form-control" />
+        <span class="field-error" id="error-nombre">Por favor ingresa tu nombre.</span>
+      </div>
+
+      <div class="form-group">
+        <label for="correo">Correo electrónico</label>
+        <input type="email" id="correo" name="correo" class="form-control" />
+        <span class="field-error" id="error-correo">Ingresa un correo electrónico válido.</span>
+      </div>
+
+      <div class="form-group">
+        <label for="asunto">Asunto</label>
+        <input type="text" id="asunto" name="asunto" class="form-control" />
+        <span class="field-error" id="error-asunto">Por favor ingresa un asunto.</span>
+      </div>
+
+      <div class="form-group">
+        <label for="mensaje">Mensaje</label>
+        <textarea id="mensaje" name="mensaje" class="form-control" rows="4"></textarea>
+        <span class="field-error" id="error-mensaje">Escribe tu mensaje antes de enviarlo.</span>
+      </div>
+
+      <button type="submit" class="btn btn-accent">Enviar mensaje</button>
+    </form>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <h2>Patitas que sanan</h2>
+        <p>Apoyo emocional a través de la zooterapia para pacientes oncológicos.</p>
+      </div>
+      <div class="footer-links">
+        <h3>Enlaces</h3>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="noticias.html">Noticias</a></li>
+          <li><a href="sobre-nosotros.html">Sobre nosotros</a></li>
+          <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">© 2026 Patitas que Sanan. Todos los derechos reservados.</div>
+  </footer>
+
+  <script src="js/contacto.js"></script>
+</body>
+</html>
