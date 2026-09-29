@@ -19,7 +19,7 @@ entregaprevia2/
 │   ├── storage.js          Helpers de localStorage (favoritos y mini CRUD)
 │   ├── noticias.js         Carga del JSON, tarjetas y funciones compartidas
 │   ├── home.js             Lógica de la página de inicio (destacadas)
-│   ├── listado.js          Listado completo + mini CRUD
+│   ├── listado.js          Listado completo de noticias
 │   ├── detalle.js          Vista de detalle de una noticia
 │   ├── favoritos.js        Listado de favoritos
 │   └── contacto.js         Validación del formulario de contacto
